@@ -1,5 +1,7 @@
 # Vessel segmentation in retinal fundus images
 
+![](tracing.gif)
+
 A Python3/NumPy/SciPy implementation of 
 > A new robust method for blood vessel segmentation in
 > retinal fundus images based on weighted line detector and hidden Markov
